@@ -27,7 +27,7 @@ const projects: Project[] = [
   },
   {
     title: "SwirlPool",
-    image: "/img/liquid.png",
+    image: "/img/swirlpool.png",
     modal: ModalTypes.ProjectInfo,
     description: "Swirlpool is a streamable Automated Market Maker(AMM). This is my current project that I am working on and it is still under development. I have designed and written all the smart contracts and I am currently quite happy with the implementation. It is written with Solidity and uses Superfluid for the streaming services. I am hoping to have the product live on a Matic testnet soon so keep an eye out!",
     github: "https://github.com/jamesdawsonWD/FlowSwap/",

@@ -27,7 +27,7 @@ function searchCollection(address: Address): void {
         <a @click.prevent="navigateHome()"><h2>jamesdawson.dev</h2></a>
       </div>
       <div class="nav">
-        <a class="social-media" href="https://twitter.com/GPCP_community">
+        <a class="social-media" href="https://twitter.com/Just_Jim_Jam">
           <img
             v-svg-inline
             class="icon"
